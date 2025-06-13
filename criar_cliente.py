@@ -17,7 +17,7 @@ headers = {
 
 payload = {
     "name": "Sofia Jorge",
-    "cpfCnpj": "11916228941",
+    "cpfCnpj": "",
     "email": "sofiajorge@gmail.com",
     "phone": "4738010919",
     "mobilePhone": "4799376637",
