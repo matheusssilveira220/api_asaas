@@ -22,9 +22,9 @@ params = {
     # nome cliente
     "name": "Sofia Jorge",   
     # email cliente
-    "email": "sofiajorge@gmail.com", 
+    "email": "@gmail.com", 
     # cnpj/cpf cliente
-    "cpfCnpj": "11916228941",
+    "cpfCnpj": "",
     # número de elementos da lista    
     "limit": 1
 }
