@@ -78,13 +78,6 @@ payload = {
 
 print("Status:", response.status_code)
 
-if response.status_code = 200:
-    print ("Boleto gerado!")
-else:
-    print("Erro")
-    
-dados = response.json()
-print(json.dumps(dados, indent=2))
 response = requests.post(url_payments, json=payload, headers=headers)
 
 
